@@ -1,4 +1,4 @@
-package org.acme;
+package com.cepservice.rest;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
